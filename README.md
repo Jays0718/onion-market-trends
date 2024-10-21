@@ -63,7 +63,7 @@ Follow these steps to set up the project locally:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/onion-market-trends.git
+   git clone https://github.com/Jays0718/onion-market-trends.git
    cd onion-market-trends
    ```
 
