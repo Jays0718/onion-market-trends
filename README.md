@@ -8,7 +8,7 @@ The **Onion Market Trends and Prices** project utilizes time series analysis to 
 ---
 
 ## 🚀 Table of Contents
-- [Project Overview](#📖-Project Overview)
+- [Project Overview](#Project-Overview)
 - [🎯 Goal of the Project](#goal-of-the-project)
 - [✨ Features](#features)
 - [🛠️ Tech Stack](#tech-stack)
